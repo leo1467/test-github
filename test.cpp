@@ -8,10 +8,6 @@ void cal(){
 int main(void){
     cout << "hello world" << endl;
     cout << "test" << endl;
-    cal();
-    cal();
-    cal();
-    cal();
-    cal();
+    cout << "0" << endl;
     return 0;
 }
