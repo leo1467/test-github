@@ -11,5 +11,7 @@ int main(void){
     cal();
     cal();
     cal();
+    cal();
+    cal();
     return 0;
 }
