@@ -9,5 +9,7 @@ int main(void){
     cout << "hello world" << endl;
     cout << "test" << endl;
     cal();
+    cal();
+    cal();
     return 0;
 }
