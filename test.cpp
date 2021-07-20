@@ -9,5 +9,6 @@ int main(void){
     cout << "hello world" << endl;
     cout << "test" << endl;
     cout << "0" << endl;
+    int  a = 0;
     return 0;
 }
