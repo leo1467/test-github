@@ -10,5 +10,6 @@ int main(void){
     cout << "test" << endl;
     cout << "0" << endl;
     int  a = 0;
+    int b = 0;
     return 0;
 }
